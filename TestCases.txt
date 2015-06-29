@@ -1,0 +1,72 @@
+11
+6 6
+A B C D E F
+A B
+A C
+B D
+B E
+D F
+E F
+8 9
+A B C D E F G H
+A B
+A D
+D C
+D E
+C F
+E F
+E G
+F H
+G H
+5 6
+B C D E F
+B C
+B E
+B D
+C F
+E F
+D F
+9 8
+A J K L M F C B D
+A J
+J L
+J M
+L C
+M B
+M D
+D F
+K F
+9 9
+A I J B C F G H E
+A I
+A J
+I B
+I C
+B F
+J E
+B G
+B H
+C H
+1 0
+A
+2 1
+A B
+A B
+11 10
+A B C D E F G H I J K
+A B
+B C
+C D
+D E
+E F
+F G
+G H
+H I
+I J
+J K
+3 1
+A B C
+A B
+0 0
+5 0
+A B C D E F
